@@ -28,6 +28,8 @@ import about04 from "../assets/about04.png";
 import profile from "../assets/profile.png";
 import circle from "../assets/circle.svg";
 import logo from "../assets/logo.png";
+import Sameer_logo_ from "../assets/Sameer-logos_.png";
+import Sameer from "../assets/Sameer.jpg";
 
 import adidas from "../assets/adidas.png";
 import amazon from "../assets/amazon.png";
@@ -64,6 +66,8 @@ export default {
   profile,
   circle,
   logo,
+  Sameer_logo_,
+  Sameer,
   adidas,
   amazon,
   asus,

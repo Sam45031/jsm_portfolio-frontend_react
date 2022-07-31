@@ -30,6 +30,7 @@ import circle from "../assets/circle.svg";
 import logo from "../assets/logo.png";
 import Sameer_logo_ from "../assets/Sameer-logos_.png";
 import Sameer from "../assets/Sameer.jpg";
+import Sameer2 from "../assets/perImg.jpeg";
 
 import adidas from "../assets/adidas.png";
 import amazon from "../assets/amazon.png";
@@ -68,6 +69,7 @@ export default {
   logo,
   Sameer_logo_,
   Sameer,
+  Sameer2,
   adidas,
   amazon,
   asus,

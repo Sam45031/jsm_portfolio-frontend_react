@@ -17,7 +17,7 @@ const Testimonial = () => {
 
   useEffect(() => {
     const query = '*[_type == "testimonials"]';
-    const brandsQuery = '*[_type == "brands"]';
+    // const brandsQuery = '*[_type == "brands"]';
 
     client.fetch(query).then((data) => {
       setTestimonials(data);

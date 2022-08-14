@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { AiFillEye, AiFillGithub } from "react-icons/ai";
+import { FaBlogger } from "react-icons/fa";
 import { motion } from "framer-motion";
 
 import { AppWrap, MotionWrap } from "../../wrapper";
@@ -95,6 +96,16 @@ const Work = () => {
                     className="app__flex"
                   >
                     <AiFillGithub />
+                  </motion.div>
+                </a>
+                <a href={work.blogLink} target="_blank" rel="noreferrer">
+                  <motion.div
+                    whileInView={{ scale: [0, 1] }}
+                    whileHover={{ scale: [1, 0.9] }}
+                    transition={{ duration: 0.25 }}
+                    className="app__flex"
+                  >
+                    <FaBlogger />
                   </motion.div>
                 </a>
               </motion.div>

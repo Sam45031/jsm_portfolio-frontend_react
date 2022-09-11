@@ -36,8 +36,10 @@ const Header = () => {
           </div>
           <div className="tag-cmp app__flex">
             <p className="p-text">
-              I am a Web Developer with over 3 years of experience in IT support
-              and Systems Administration
+              Detail-oriented <strong>Software Developer</strong> with more than
+              3 years of experience working with numerous technologies. Highly
+              adept at both indpendent and collaborative projects, with an
+              emphasis on landing page and website development.
             </p>
           </div>
         </div>

@@ -38,7 +38,7 @@ const Header = () => {
             <p className="p-text">
               Detail-oriented <strong>Software Developer</strong> with more than
               3 years of experience working with numerous technologies. Highly
-              adept at both indpendent and collaborative projects, with an
+              adept at both independent and collaborative projects, with an
               emphasis on landing page and website development.
             </p>
           </div>

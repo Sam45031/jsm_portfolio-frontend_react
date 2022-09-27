@@ -36,10 +36,12 @@ const Header = () => {
           </div>
           <div className="tag-cmp app__flex">
             <p className="p-text">
-              Detail-oriented <strong>Software Developer</strong> with more than
-              3 years of experience working with numerous technologies. Highly
-              adept at both independent and collaborative projects, with an
-              emphasis on landing page and website development.
+              Highly skilled and collaborative{" "}
+              <strong>Software Engineer</strong> with more than 3 years of
+              expertise in Web Development and Technical Support. Dedicated to
+              excellence and service, continually pursuing challenges to learn
+              more and enhance the client experience whilst maintaining an
+              addiction to learning cloud technologies
             </p>
           </div>
         </div>

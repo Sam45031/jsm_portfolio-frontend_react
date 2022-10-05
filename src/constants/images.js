@@ -31,6 +31,8 @@ import logo from "../assets/logo.png";
 import Sameer_logo_ from "../assets/Sameer-logos_.png";
 import Sameer from "../assets/Sameer.jpg";
 import Sameer2 from "../assets/perImg.jpeg";
+import profile2 from "../assets/profile_pic-removebg.png";
+import profile3 from "../assets/profile_pic.jpg";
 
 import adidas from "../assets/adidas.png";
 import amazon from "../assets/amazon.png";
@@ -82,4 +84,6 @@ export default {
   spotify,
   coding2,
   c3,
+  profile2,
+  profile3,
 };

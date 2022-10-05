@@ -42,9 +42,6 @@ import nb from "../assets/nb.png";
 import skype from "../assets/skype.png";
 import spotify from "../assets/spotify.png";
 
-import coding2 from "../assets/coding2.jpg";
-import c3 from "../assets/c3.png";
-
 export default {
   email,
   mobile,
@@ -82,8 +79,6 @@ export default {
   nb,
   skype,
   spotify,
-  coding2,
-  c3,
   profile2,
   profile3,
 };

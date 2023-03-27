@@ -36,7 +36,7 @@ const Header = () => {
           </div>
           <div className="tag-cmp app__flex">
             <p className="p-text">
-              Highly skilled and collaborative <strong>IT Professional</strong>{" "}
+              Highly skilled and collaborative <strong>IT professional</strong>{" "}
               with more than 4 years of expertise in Technical Support, Web
               Development and Sales. Continually pursuing challenges to learn
               more and enhance the client experience whilst maintaining an
